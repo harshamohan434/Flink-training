@@ -1,0 +1,22 @@
+# Ignore all .class files
+*.class
+
+# Ignore build directory
+/build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Maven/Gradle build output
+target/
+
+# Ignore logs
+*.log
