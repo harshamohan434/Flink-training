@@ -12,7 +12,7 @@ Add this to VM Options:
 
 
 ## Project contents
-1. quick start
-   2. word count using lambda expressions
-   3. word count using Batch processing
-   4. word count using stream processing
+# quick start
+   1. word count using lambda expressions 
+   2. word count using Batch processing
+   3. word count using stream processing
